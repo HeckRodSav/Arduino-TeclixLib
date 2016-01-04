@@ -1,2 +1,2 @@
 # TeclixLib
-Library for matrix keyboard of any size.
+Library for matricial keyboard of any size without resistors.
